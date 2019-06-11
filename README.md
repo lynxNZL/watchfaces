@@ -8,7 +8,7 @@
 ### 1. **Galaxy Watch Active health dashboard**
 - Cloned for those without access to the new One UI faces yet
 - This was made in Galaxy Watch Designer so some compromises had to be made
-- Direct download link: https://github.com/lynxNZL/watchfaces/raw/master/Health%20Dashboard.gwd
+- Direct download link: https://github.com/lynxNZL/watchfaces/raw/master/GWA_Dashboard.gwd
 
 ![Imgur](https://i.imgur.com/3RxqzXv.png)
 
