@@ -11,3 +11,9 @@
 - Direct download link: https://github.com/lynxNZL/watchfaces/raw/master/Health%20Dashboard.gwd
 
 ![Imgur](https://i.imgur.com/3RxqzXv.png)
+
+### 2. **Galaxy Watch Active health dashboard (no "Work out" button)**
+- As above
+- Direct download link: https://github.com/lynxNZL/watchfaces/raw/master/GWA_Dashboard_NoWO.gwd
+
+![Imgur](https://i.imgur.com/wW62DTN.png)
