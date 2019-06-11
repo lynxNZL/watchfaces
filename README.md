@@ -4,7 +4,9 @@ This was made in Galaxy Watch Designer so some compromises had to be made.
 
 Changes will probably be updated here...
 
-NOTE:
-You'll need to get Galaxy Watch Designer setup to use this watchface.
+**NOTE:
+You'll need to get Galaxy Watch Designer set up to install this watchface.**
 
 I might try and figure out how to get it onto the Galaxy Store if people would prefer.
+
+![Imgur](https://i.imgur.com/3RxqzXv.png)
