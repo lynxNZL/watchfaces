@@ -1,12 +1,13 @@
-Galaxy Watch Active health dashboard watchface copycat for those without access to the new One UI faces yet. 
+## Description:
+- Repo for a custom watch faces for Samsung Galaxy Watch.
+- **You'll need to get Galaxy Watch Designer set up to install these watchfaces.**
+- I sumitted a request to upload faces to the Galaxy Store, pending approval.
 
-This was made in Galaxy Watch Designer so some compromises had to be made.  
+## Faces:
 
-Changes will probably be updated here...
-
-**NOTE:
-You'll need to get Galaxy Watch Designer set up to install this watchface.**
-
-I might try and figure out how to get it onto the Galaxy Store if people would prefer.
+### 1. **Galaxy Watch Active health dashboard**
+- Cloned for those without access to the new One UI faces yet
+- This was made in Galaxy Watch Designer so some compromises had to be made
+- Direct download link: https://github.com/lynxNZL/watchfaces/raw/master/Health%20Dashboard.gwd
 
 ![Imgur](https://i.imgur.com/3RxqzXv.png)
