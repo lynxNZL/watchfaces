@@ -6,6 +6,9 @@
 ## GWA Dashboard:
 - Cloned for those without access to the new One UI faces yet
 - This was made in Galaxy Watch Designer so some compromises had to be made
+- You can tap most buttons for extra features.
+- Double tap the AM/PM to hide
+- Double tap the time "dots (:)" to hide
 
 <img src="https://imgur.com/HMhO8H9.png">
 
