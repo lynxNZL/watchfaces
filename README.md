@@ -17,10 +17,12 @@
 - **GWA_Dashboard_12H_AOD** - 12 hour, greyscale AOD
 - **GWA_Dashboard_12H_Health** - 12 hour, S-HEALTH button, simple AOD
 - **GWA_Dashboard_12H_Health_AOD** - 12 hour, S-HEALTH button, greyscale AOD
+- **GWA_Dashboard_12H_Health_Water_AOD** - 12 hour, S-HEALTH button, greyscale AOD, water intake instead of floors
 - **GWA_Dashboard_24H** - 24 hour, simple AOD
 - **GWA_Dashboard_24H_AOD** - 24 hour, greyscale AOD
 - **GWA_Dashboard_24H_Health** - 24 hour, S-HEALTH button, simple AOD
 - **GWA_Dashboard_24H_Health_AOD** - 24 hour, S-HEALTH button, greyscale AOD
+- **GWA_Dashboard_24H_Health_Water_AOD** - 24 hour, S-HEALTH button, greyscale AOD, water intake instead of floors
 
 ### 12H
 <img src="https://imgur.com/Ew4k1gy.png" width="200" height="200"><img src="https://imgur.com/8dJysBG.png" width="200" height="200"><img src="https://imgur.com/P0TyDno.png" width="200" height="200"><img src="https://imgur.com/xWTLUd0.png" width="200" height="200">
