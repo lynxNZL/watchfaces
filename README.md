@@ -31,3 +31,8 @@
 
 ### 24H
 <img src="https://imgur.com/qShOHiv.png" width="200" height="200"><img src="https://imgur.com/Esj24S2.png" width="200" height="200"><img src="https://imgur.com/KAfLHWV.png" width="200" height="200"><img src="https://imgur.com/jgkcFbL.png" width="200" height="200">
+
+### Water
+<img src="https://imgur.com/3XMksXc.png" width="200" height="200">
+### Distance
+<img src="https://imgur.com/D0BPClE.png" width="200" height="200">
